@@ -1,2 +1,2 @@
 # practice-code
-codes in java for competitive programming practice
+codes in java for Design Patterns
